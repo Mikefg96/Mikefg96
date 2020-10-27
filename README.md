@@ -1,5 +1,5 @@
-### Hey, Miguel Flores here 😬✌️
-
+### Hey, Miguel Flores here :bowtie:
+### I'm currently omw to achieve the MongoDB Developer Certification 🍃
 <!--
 **Mikefg96/Mikefg96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
