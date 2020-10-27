@@ -1,4 +1,5 @@
-### Hey, Miguel Flores here :bowtie:
+### Hey, Miguel Flores here, I'm specialized in web development (both front-end and back-end) :computer:
+###
 ### I'm currently omw to achieve the MongoDB Developer Certification 🍃
 <!--
 **Mikefg96/Mikefg96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
